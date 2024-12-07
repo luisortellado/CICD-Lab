@@ -9,7 +9,4 @@
     "types": ["jest", "node"]
   },
   "exclude": ["node_modules"]
-  // "compilerOptions": {
-  //   "types": ["jest", "node"]
-  // }
 }
